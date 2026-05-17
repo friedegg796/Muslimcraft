@@ -1,39 +1,46 @@
+<a href="https://billing.sparkedhost.com/aff.php?aff=3242">
+<img src="https://cdn.modrinth.com/data/cached_images/277f1b5c0c151bb93fec06c6b820aa67f2ad83f6.png" alt="Sparked Hosting Logo" width=30%/>
+</a>
+
+_This image has an affiliate link, aka I can get a commission (MONEY for me at no expense to you) if you purchase through this link. So if you wanna support me, and get a neat little server for Minecraft, click the image!_
+
 # Muslimcraft
 
 WIP
 
-Makes Minecraft quite the bit more clearly Halal, removing any doubt that it would be Haram.
+Makes Minecraft clearly Halal, removing any doubt that it would be Haram.
 
-This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for!), and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."
+This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for in real life!), and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."
 
-It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran.
+It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.
 
 As well as this, it changes some paintings to be that of Mosques, instead of what they were before.
 
 For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
 
 
-## I have issue gerrr/hmm I wanna know something
-Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
+## Questions/Suggestions/Problems
 
-### Why?
-
-Ok so like free good deeds, cuz it prevents the MC from playing music, adds frequent reminders (WE LOVE GOOD DEEDS), and makes Minecraft very very very clearly Halal (No infighting with the Muslims about if MC is Halal or not with this one!).
+Make an [issue](https://github.com/friedegg796/Muslimcraft/issues), I'll check it inshaAllah.
 
 ### (Insert thing here) isn't Haram!
 
-Just because the pack explodes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes).
+Just because the pack changes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes).
 
-There are also differing opinions based on what would be considered Haram or not, I'm just trying to emcompass all of them (We're being safe and secure with this one!!!!).
+There are also differing opinions based on what would be considered Haram or not, I'm just trying to emcompass all of them.
 
 ### Could I put your Resourcepack into MY modpack?
-Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)
+Read the [License](https://github.com/friedegg796/Muslimcraft?tab=License-1-ov-file#)
 
-### How do I install this...
+If on Modrinth, read their TOS as well.
+
+### How do I install...
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above.
+On [Github](https://github.com/friedegg796/Muslimcraft?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased versions).
+
+Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft/releases).
 
 
 ## Credits
@@ -100,9 +107,6 @@ Careful with the above video's channel, this specific video was fine but I fear 
 
 Audio for the Discs:
 https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
-
-Please note I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
-
 
 #### Disclaimer
 
